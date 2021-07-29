@@ -1,4 +1,4 @@
-# web-tools/front-end
+# cool-tech/web-tools/front-end
 
 ## image manipulation
 
