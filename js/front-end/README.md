@@ -4,6 +4,10 @@
 
 https://www.npmjs.com/package/fast-average-color - used to add colors behind images for like avatars or hero images
 
+### svg
+
+https://roughjs.com - Create graphics with a hand-drawn, sketchy, appearance
+
 ## animation
 
 https://greensock.com/gsap/ - animation library
