@@ -2,7 +2,13 @@
 
 ## design
 
+### image manipulation
+
 https://www.npmjs.com/package/fast-average-color - used to add colors behind images for like avatars or hero images
+
+### user interaction
+
+https://interactjs.io/ - library for drag and drop js
 
 ### svg
 
